@@ -1,0 +1,4 @@
+first entry here
+second entry still in master
+new entry from b1
+after merge
